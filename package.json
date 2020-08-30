@@ -10,10 +10,11 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "http-status-codes": "^2.1.2",
     "uuidv4": "^6.0.7"
   },
   "devDependencies": {
-    "jest": "^25.2.6",
+    "jest": "^26.4.2",
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2"
   }
